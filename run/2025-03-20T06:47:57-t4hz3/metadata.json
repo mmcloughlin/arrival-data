@@ -1,0 +1,8 @@
+{
+  "name": "t4hz3",
+  "timestamp": "2025-03-20T06:47:57",
+  "timeout": "14400",
+  "hostname": "gs23503",
+  "z3_version": "Z3 version 4.12.2 - 64 bit",
+  "cvc5_version": "This is cvc5 version 1.2.0 [git tag 1.2.0 branch HEAD]"
+}
