@@ -1,6 +1,6 @@
 # Ignored run names.
-/*-wip/
-/*-adhoc/
+/run/*-wip/
+/run/*-adhoc/
 
 # Individual expansion results.
-/*/log/expansions/
+/run/*/log/expansions/
